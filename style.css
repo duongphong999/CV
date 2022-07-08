@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+h2{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+img {
+    
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+
+display: block;
+ margin-left: auto;
+  margin-right: auto;
+}
+html {
+    background-image: url("https://hoaidoan.vn/wp-content/uploads/2021/03/background-dep-5.png");
+    background-size: cover;
+}
